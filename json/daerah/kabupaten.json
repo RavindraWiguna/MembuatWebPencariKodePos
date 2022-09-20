@@ -1,0 +1,2572 @@
+[
+  {
+    "KodeDiri": 1101,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN SIMEULUE"
+  },
+  {
+    "KodeDiri": 1102,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN ACEH SINGKIL"
+  },
+  {
+    "KodeDiri": 1103,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN ACEH SELATAN"
+  },
+  {
+    "KodeDiri": 1104,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN ACEH TENGGARA"
+  },
+  {
+    "KodeDiri": 1105,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN ACEH TIMUR"
+  },
+  {
+    "KodeDiri": 1106,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN ACEH TENGAH"
+  },
+  {
+    "KodeDiri": 1107,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN ACEH BARAT"
+  },
+  {
+    "KodeDiri": 1108,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN ACEH BESAR"
+  },
+  {
+    "KodeDiri": 1109,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN PIDIE"
+  },
+  {
+    "KodeDiri": 1110,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN BIREUEN"
+  },
+  {
+    "KodeDiri": 1111,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN ACEH UTARA"
+  },
+  {
+    "KodeDiri": 1112,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN ACEH BARAT DAYA"
+  },
+  {
+    "KodeDiri": 1113,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN GAYO LUES"
+  },
+  {
+    "KodeDiri": 1114,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN ACEH TAMIANG"
+  },
+  {
+    "KodeDiri": 1115,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN NAGAN RAYA"
+  },
+  {
+    "KodeDiri": 1116,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN ACEH JAYA"
+  },
+  {
+    "KodeDiri": 1117,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN BENER MERIAH"
+  },
+  {
+    "KodeDiri": 1118,
+    "KodeParent": 11,
+    "NamaDiri": "KABUPATEN PIDIE JAYA"
+  },
+  {
+    "KodeDiri": 1171,
+    "KodeParent": 11,
+    "NamaDiri": "KOTA BANDA ACEH"
+  },
+  {
+    "KodeDiri": 1172,
+    "KodeParent": 11,
+    "NamaDiri": "KOTA SABANG"
+  },
+  {
+    "KodeDiri": 1173,
+    "KodeParent": 11,
+    "NamaDiri": "KOTA LANGSA"
+  },
+  {
+    "KodeDiri": 1174,
+    "KodeParent": 11,
+    "NamaDiri": "KOTA LHOKSEUMAWE"
+  },
+  {
+    "KodeDiri": 1175,
+    "KodeParent": 11,
+    "NamaDiri": "KOTA SUBULUSSALAM"
+  },
+  {
+    "KodeDiri": 1201,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN NIAS"
+  },
+  {
+    "KodeDiri": 1202,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN MANDAILING NATAL"
+  },
+  {
+    "KodeDiri": 1203,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN TAPANULI SELATAN"
+  },
+  {
+    "KodeDiri": 1204,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN TAPANULI TENGAH"
+  },
+  {
+    "KodeDiri": 1205,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN TAPANULI UTARA"
+  },
+  {
+    "KodeDiri": 1206,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN TOBA SAMOSIR"
+  },
+  {
+    "KodeDiri": 1207,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN LABUHAN BATU"
+  },
+  {
+    "KodeDiri": 1208,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN ASAHAN"
+  },
+  {
+    "KodeDiri": 1209,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN SIMALUNGUN"
+  },
+  {
+    "KodeDiri": 1210,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN DAIRI"
+  },
+  {
+    "KodeDiri": 1211,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN KARO"
+  },
+  {
+    "KodeDiri": 1212,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN DELI SERDANG"
+  },
+  {
+    "KodeDiri": 1213,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN LANGKAT"
+  },
+  {
+    "KodeDiri": 1214,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN NIAS SELATAN"
+  },
+  {
+    "KodeDiri": 1215,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN HUMBANG HASUNDUTAN"
+  },
+  {
+    "KodeDiri": 1216,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN PAKPAK BHARAT"
+  },
+  {
+    "KodeDiri": 1217,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN SAMOSIR"
+  },
+  {
+    "KodeDiri": 1218,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN SERDANG BEDAGAI"
+  },
+  {
+    "KodeDiri": 1219,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN BATU BARA"
+  },
+  {
+    "KodeDiri": 1220,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN PADANG LAWAS UTARA"
+  },
+  {
+    "KodeDiri": 1221,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN PADANG LAWAS"
+  },
+  {
+    "KodeDiri": 1222,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN LABUHAN BATU SELATAN"
+  },
+  {
+    "KodeDiri": 1223,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN LABUHAN BATU UTARA"
+  },
+  {
+    "KodeDiri": 1224,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN NIAS UTARA"
+  },
+  {
+    "KodeDiri": 1225,
+    "KodeParent": 12,
+    "NamaDiri": "KABUPATEN NIAS BARAT"
+  },
+  {
+    "KodeDiri": 1271,
+    "KodeParent": 12,
+    "NamaDiri": "KOTA SIBOLGA"
+  },
+  {
+    "KodeDiri": 1272,
+    "KodeParent": 12,
+    "NamaDiri": "KOTA TANJUNG BALAI"
+  },
+  {
+    "KodeDiri": 1273,
+    "KodeParent": 12,
+    "NamaDiri": "KOTA PEMATANG SIANTAR"
+  },
+  {
+    "KodeDiri": 1274,
+    "KodeParent": 12,
+    "NamaDiri": "KOTA TEBING TINGGI"
+  },
+  {
+    "KodeDiri": 1275,
+    "KodeParent": 12,
+    "NamaDiri": "KOTA MEDAN"
+  },
+  {
+    "KodeDiri": 1276,
+    "KodeParent": 12,
+    "NamaDiri": "KOTA BINJAI"
+  },
+  {
+    "KodeDiri": 1277,
+    "KodeParent": 12,
+    "NamaDiri": "KOTA PADANGSIDIMPUAN"
+  },
+  {
+    "KodeDiri": 1278,
+    "KodeParent": 12,
+    "NamaDiri": "KOTA GUNUNGSITOLI"
+  },
+  {
+    "KodeDiri": 1301,
+    "KodeParent": 13,
+    "NamaDiri": "KABUPATEN KEPULAUAN MENTAWAI"
+  },
+  {
+    "KodeDiri": 1302,
+    "KodeParent": 13,
+    "NamaDiri": "KABUPATEN PESISIR SELATAN"
+  },
+  {
+    "KodeDiri": 1303,
+    "KodeParent": 13,
+    "NamaDiri": "KABUPATEN SOLOK"
+  },
+  {
+    "KodeDiri": 1304,
+    "KodeParent": 13,
+    "NamaDiri": "KABUPATEN SIJUNJUNG"
+  },
+  {
+    "KodeDiri": 1305,
+    "KodeParent": 13,
+    "NamaDiri": "KABUPATEN TANAH DATAR"
+  },
+  {
+    "KodeDiri": 1306,
+    "KodeParent": 13,
+    "NamaDiri": "KABUPATEN PADANG PARIAMAN"
+  },
+  {
+    "KodeDiri": 1307,
+    "KodeParent": 13,
+    "NamaDiri": "KABUPATEN AGAM"
+  },
+  {
+    "KodeDiri": 1308,
+    "KodeParent": 13,
+    "NamaDiri": "KABUPATEN LIMA PULUH KOTA"
+  },
+  {
+    "KodeDiri": 1309,
+    "KodeParent": 13,
+    "NamaDiri": "KABUPATEN PASAMAN"
+  },
+  {
+    "KodeDiri": 1310,
+    "KodeParent": 13,
+    "NamaDiri": "KABUPATEN SOLOK SELATAN"
+  },
+  {
+    "KodeDiri": 1311,
+    "KodeParent": 13,
+    "NamaDiri": "KABUPATEN DHARMASRAYA"
+  },
+  {
+    "KodeDiri": 1312,
+    "KodeParent": 13,
+    "NamaDiri": "KABUPATEN PASAMAN BARAT"
+  },
+  {
+    "KodeDiri": 1371,
+    "KodeParent": 13,
+    "NamaDiri": "KOTA PADANG"
+  },
+  {
+    "KodeDiri": 1372,
+    "KodeParent": 13,
+    "NamaDiri": "KOTA SOLOK"
+  },
+  {
+    "KodeDiri": 1373,
+    "KodeParent": 13,
+    "NamaDiri": "KOTA SAWAH LUNTO"
+  },
+  {
+    "KodeDiri": 1374,
+    "KodeParent": 13,
+    "NamaDiri": "KOTA PADANG PANJANG"
+  },
+  {
+    "KodeDiri": 1375,
+    "KodeParent": 13,
+    "NamaDiri": "KOTA BUKITTINGGI"
+  },
+  {
+    "KodeDiri": 1376,
+    "KodeParent": 13,
+    "NamaDiri": "KOTA PAYAKUMBUH"
+  },
+  {
+    "KodeDiri": 1377,
+    "KodeParent": 13,
+    "NamaDiri": "KOTA PARIAMAN"
+  },
+  {
+    "KodeDiri": 1401,
+    "KodeParent": 14,
+    "NamaDiri": "KABUPATEN KUANTAN SINGINGI"
+  },
+  {
+    "KodeDiri": 1402,
+    "KodeParent": 14,
+    "NamaDiri": "KABUPATEN INDRAGIRI HULU"
+  },
+  {
+    "KodeDiri": 1403,
+    "KodeParent": 14,
+    "NamaDiri": "KABUPATEN INDRAGIRI HILIR"
+  },
+  {
+    "KodeDiri": 1404,
+    "KodeParent": 14,
+    "NamaDiri": "KABUPATEN PELALAWAN"
+  },
+  {
+    "KodeDiri": 1405,
+    "KodeParent": 14,
+    "NamaDiri": "KABUPATEN S I A K"
+  },
+  {
+    "KodeDiri": 1406,
+    "KodeParent": 14,
+    "NamaDiri": "KABUPATEN KAMPAR"
+  },
+  {
+    "KodeDiri": 1407,
+    "KodeParent": 14,
+    "NamaDiri": "KABUPATEN ROKAN HULU"
+  },
+  {
+    "KodeDiri": 1408,
+    "KodeParent": 14,
+    "NamaDiri": "KABUPATEN BENGKALIS"
+  },
+  {
+    "KodeDiri": 1409,
+    "KodeParent": 14,
+    "NamaDiri": "KABUPATEN ROKAN HILIR"
+  },
+  {
+    "KodeDiri": 1410,
+    "KodeParent": 14,
+    "NamaDiri": "KABUPATEN KEPULAUAN MERANTI"
+  },
+  {
+    "KodeDiri": 1471,
+    "KodeParent": 14,
+    "NamaDiri": "KOTA PEKANBARU"
+  },
+  {
+    "KodeDiri": 1473,
+    "KodeParent": 14,
+    "NamaDiri": "KOTA D U M A I"
+  },
+  {
+    "KodeDiri": 1501,
+    "KodeParent": 15,
+    "NamaDiri": "KABUPATEN KERINCI"
+  },
+  {
+    "KodeDiri": 1502,
+    "KodeParent": 15,
+    "NamaDiri": "KABUPATEN MERANGIN"
+  },
+  {
+    "KodeDiri": 1503,
+    "KodeParent": 15,
+    "NamaDiri": "KABUPATEN SAROLANGUN"
+  },
+  {
+    "KodeDiri": 1504,
+    "KodeParent": 15,
+    "NamaDiri": "KABUPATEN BATANG HARI"
+  },
+  {
+    "KodeDiri": 1505,
+    "KodeParent": 15,
+    "NamaDiri": "KABUPATEN MUARO JAMBI"
+  },
+  {
+    "KodeDiri": 1506,
+    "KodeParent": 15,
+    "NamaDiri": "KABUPATEN TANJUNG JABUNG TIMUR"
+  },
+  {
+    "KodeDiri": 1507,
+    "KodeParent": 15,
+    "NamaDiri": "KABUPATEN TANJUNG JABUNG BARAT"
+  },
+  {
+    "KodeDiri": 1508,
+    "KodeParent": 15,
+    "NamaDiri": "KABUPATEN TEBO"
+  },
+  {
+    "KodeDiri": 1509,
+    "KodeParent": 15,
+    "NamaDiri": "KABUPATEN BUNGO"
+  },
+  {
+    "KodeDiri": 1571,
+    "KodeParent": 15,
+    "NamaDiri": "KOTA JAMBI"
+  },
+  {
+    "KodeDiri": 1572,
+    "KodeParent": 15,
+    "NamaDiri": "KOTA SUNGAI PENUH"
+  },
+  {
+    "KodeDiri": 1601,
+    "KodeParent": 16,
+    "NamaDiri": "KABUPATEN OGAN KOMERING ULU"
+  },
+  {
+    "KodeDiri": 1602,
+    "KodeParent": 16,
+    "NamaDiri": "KABUPATEN OGAN KOMERING ILIR"
+  },
+  {
+    "KodeDiri": 1603,
+    "KodeParent": 16,
+    "NamaDiri": "KABUPATEN MUARA ENIM"
+  },
+  {
+    "KodeDiri": 1604,
+    "KodeParent": 16,
+    "NamaDiri": "KABUPATEN LAHAT"
+  },
+  {
+    "KodeDiri": 1605,
+    "KodeParent": 16,
+    "NamaDiri": "KABUPATEN MUSI RAWAS"
+  },
+  {
+    "KodeDiri": 1606,
+    "KodeParent": 16,
+    "NamaDiri": "KABUPATEN MUSI BANYUASIN"
+  },
+  {
+    "KodeDiri": 1607,
+    "KodeParent": 16,
+    "NamaDiri": "KABUPATEN BANYU ASIN"
+  },
+  {
+    "KodeDiri": 1608,
+    "KodeParent": 16,
+    "NamaDiri": "KABUPATEN OGAN KOMERING ULU SELATAN"
+  },
+  {
+    "KodeDiri": 1609,
+    "KodeParent": 16,
+    "NamaDiri": "KABUPATEN OGAN KOMERING ULU TIMUR"
+  },
+  {
+    "KodeDiri": 1610,
+    "KodeParent": 16,
+    "NamaDiri": "KABUPATEN OGAN ILIR"
+  },
+  {
+    "KodeDiri": 1611,
+    "KodeParent": 16,
+    "NamaDiri": "KABUPATEN EMPAT LAWANG"
+  },
+  {
+    "KodeDiri": 1612,
+    "KodeParent": 16,
+    "NamaDiri": "KABUPATEN PENUKAL ABAB LEMATANG ILIR"
+  },
+  {
+    "KodeDiri": 1613,
+    "KodeParent": 16,
+    "NamaDiri": "KABUPATEN MUSI RAWAS UTARA"
+  },
+  {
+    "KodeDiri": 1671,
+    "KodeParent": 16,
+    "NamaDiri": "KOTA PALEMBANG"
+  },
+  {
+    "KodeDiri": 1672,
+    "KodeParent": 16,
+    "NamaDiri": "KOTA PRABUMULIH"
+  },
+  {
+    "KodeDiri": 1673,
+    "KodeParent": 16,
+    "NamaDiri": "KOTA PAGAR ALAM"
+  },
+  {
+    "KodeDiri": 1674,
+    "KodeParent": 16,
+    "NamaDiri": "KOTA LUBUKLINGGAU"
+  },
+  {
+    "KodeDiri": 1701,
+    "KodeParent": 17,
+    "NamaDiri": "KABUPATEN BENGKULU SELATAN"
+  },
+  {
+    "KodeDiri": 1702,
+    "KodeParent": 17,
+    "NamaDiri": "KABUPATEN REJANG LEBONG"
+  },
+  {
+    "KodeDiri": 1703,
+    "KodeParent": 17,
+    "NamaDiri": "KABUPATEN BENGKULU UTARA"
+  },
+  {
+    "KodeDiri": 1704,
+    "KodeParent": 17,
+    "NamaDiri": "KABUPATEN KAUR"
+  },
+  {
+    "KodeDiri": 1705,
+    "KodeParent": 17,
+    "NamaDiri": "KABUPATEN SELUMA"
+  },
+  {
+    "KodeDiri": 1706,
+    "KodeParent": 17,
+    "NamaDiri": "KABUPATEN MUKOMUKO"
+  },
+  {
+    "KodeDiri": 1707,
+    "KodeParent": 17,
+    "NamaDiri": "KABUPATEN LEBONG"
+  },
+  {
+    "KodeDiri": 1708,
+    "KodeParent": 17,
+    "NamaDiri": "KABUPATEN KEPAHIANG"
+  },
+  {
+    "KodeDiri": 1709,
+    "KodeParent": 17,
+    "NamaDiri": "KABUPATEN BENGKULU TENGAH"
+  },
+  {
+    "KodeDiri": 1771,
+    "KodeParent": 17,
+    "NamaDiri": "KOTA BENGKULU"
+  },
+  {
+    "KodeDiri": 1801,
+    "KodeParent": 18,
+    "NamaDiri": "KABUPATEN LAMPUNG BARAT"
+  },
+  {
+    "KodeDiri": 1802,
+    "KodeParent": 18,
+    "NamaDiri": "KABUPATEN TANGGAMUS"
+  },
+  {
+    "KodeDiri": 1803,
+    "KodeParent": 18,
+    "NamaDiri": "KABUPATEN LAMPUNG SELATAN"
+  },
+  {
+    "KodeDiri": 1804,
+    "KodeParent": 18,
+    "NamaDiri": "KABUPATEN LAMPUNG TIMUR"
+  },
+  {
+    "KodeDiri": 1805,
+    "KodeParent": 18,
+    "NamaDiri": "KABUPATEN LAMPUNG TENGAH"
+  },
+  {
+    "KodeDiri": 1806,
+    "KodeParent": 18,
+    "NamaDiri": "KABUPATEN LAMPUNG UTARA"
+  },
+  {
+    "KodeDiri": 1807,
+    "KodeParent": 18,
+    "NamaDiri": "KABUPATEN WAY KANAN"
+  },
+  {
+    "KodeDiri": 1808,
+    "KodeParent": 18,
+    "NamaDiri": "KABUPATEN TULANGBAWANG"
+  },
+  {
+    "KodeDiri": 1809,
+    "KodeParent": 18,
+    "NamaDiri": "KABUPATEN PESAWARAN"
+  },
+  {
+    "KodeDiri": 1810,
+    "KodeParent": 18,
+    "NamaDiri": "KABUPATEN PRINGSEWU"
+  },
+  {
+    "KodeDiri": 1811,
+    "KodeParent": 18,
+    "NamaDiri": "KABUPATEN MESUJI"
+  },
+  {
+    "KodeDiri": 1812,
+    "KodeParent": 18,
+    "NamaDiri": "KABUPATEN TULANG BAWANG BARAT"
+  },
+  {
+    "KodeDiri": 1813,
+    "KodeParent": 18,
+    "NamaDiri": "KABUPATEN PESISIR BARAT"
+  },
+  {
+    "KodeDiri": 1871,
+    "KodeParent": 18,
+    "NamaDiri": "KOTA BANDAR LAMPUNG"
+  },
+  {
+    "KodeDiri": 1872,
+    "KodeParent": 18,
+    "NamaDiri": "KOTA METRO"
+  },
+  {
+    "KodeDiri": 1901,
+    "KodeParent": 19,
+    "NamaDiri": "KABUPATEN BANGKA"
+  },
+  {
+    "KodeDiri": 1902,
+    "KodeParent": 19,
+    "NamaDiri": "KABUPATEN BELITUNG"
+  },
+  {
+    "KodeDiri": 1903,
+    "KodeParent": 19,
+    "NamaDiri": "KABUPATEN BANGKA BARAT"
+  },
+  {
+    "KodeDiri": 1904,
+    "KodeParent": 19,
+    "NamaDiri": "KABUPATEN BANGKA TENGAH"
+  },
+  {
+    "KodeDiri": 1905,
+    "KodeParent": 19,
+    "NamaDiri": "KABUPATEN BANGKA SELATAN"
+  },
+  {
+    "KodeDiri": 1906,
+    "KodeParent": 19,
+    "NamaDiri": "KABUPATEN BELITUNG TIMUR"
+  },
+  {
+    "KodeDiri": 1971,
+    "KodeParent": 19,
+    "NamaDiri": "KOTA PANGKAL PINANG"
+  },
+  {
+    "KodeDiri": 2101,
+    "KodeParent": 21,
+    "NamaDiri": "KABUPATEN KARIMUN"
+  },
+  {
+    "KodeDiri": 2102,
+    "KodeParent": 21,
+    "NamaDiri": "KABUPATEN BINTAN"
+  },
+  {
+    "KodeDiri": 2103,
+    "KodeParent": 21,
+    "NamaDiri": "KABUPATEN NATUNA"
+  },
+  {
+    "KodeDiri": 2104,
+    "KodeParent": 21,
+    "NamaDiri": "KABUPATEN LINGGA"
+  },
+  {
+    "KodeDiri": 2105,
+    "KodeParent": 21,
+    "NamaDiri": "KABUPATEN KEPULAUAN ANAMBAS"
+  },
+  {
+    "KodeDiri": 2171,
+    "KodeParent": 21,
+    "NamaDiri": "KOTA B A T A M"
+  },
+  {
+    "KodeDiri": 2172,
+    "KodeParent": 21,
+    "NamaDiri": "KOTA TANJUNG PINANG"
+  },
+  {
+    "KodeDiri": 3101,
+    "KodeParent": 31,
+    "NamaDiri": "KABUPATEN KEPULAUAN SERIBU"
+  },
+  {
+    "KodeDiri": 3171,
+    "KodeParent": 31,
+    "NamaDiri": "KOTA JAKARTA SELATAN"
+  },
+  {
+    "KodeDiri": 3172,
+    "KodeParent": 31,
+    "NamaDiri": "KOTA JAKARTA TIMUR"
+  },
+  {
+    "KodeDiri": 3173,
+    "KodeParent": 31,
+    "NamaDiri": "KOTA JAKARTA PUSAT"
+  },
+  {
+    "KodeDiri": 3174,
+    "KodeParent": 31,
+    "NamaDiri": "KOTA JAKARTA BARAT"
+  },
+  {
+    "KodeDiri": 3175,
+    "KodeParent": 31,
+    "NamaDiri": "KOTA JAKARTA UTARA"
+  },
+  {
+    "KodeDiri": 3201,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN BOGOR"
+  },
+  {
+    "KodeDiri": 3202,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN SUKABUMI"
+  },
+  {
+    "KodeDiri": 3203,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN CIANJUR"
+  },
+  {
+    "KodeDiri": 3204,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN BANDUNG"
+  },
+  {
+    "KodeDiri": 3205,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN GARUT"
+  },
+  {
+    "KodeDiri": 3206,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN TASIKMALAYA"
+  },
+  {
+    "KodeDiri": 3207,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN CIAMIS"
+  },
+  {
+    "KodeDiri": 3208,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN KUNINGAN"
+  },
+  {
+    "KodeDiri": 3209,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN CIREBON"
+  },
+  {
+    "KodeDiri": 3210,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN MAJALENGKA"
+  },
+  {
+    "KodeDiri": 3211,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN SUMEDANG"
+  },
+  {
+    "KodeDiri": 3212,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN INDRAMAYU"
+  },
+  {
+    "KodeDiri": 3213,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN SUBANG"
+  },
+  {
+    "KodeDiri": 3214,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN PURWAKARTA"
+  },
+  {
+    "KodeDiri": 3215,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN KARAWANG"
+  },
+  {
+    "KodeDiri": 3216,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN BEKASI"
+  },
+  {
+    "KodeDiri": 3217,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN BANDUNG BARAT"
+  },
+  {
+    "KodeDiri": 3218,
+    "KodeParent": 32,
+    "NamaDiri": "KABUPATEN PANGANDARAN"
+  },
+  {
+    "KodeDiri": 3271,
+    "KodeParent": 32,
+    "NamaDiri": "KOTA BOGOR"
+  },
+  {
+    "KodeDiri": 3272,
+    "KodeParent": 32,
+    "NamaDiri": "KOTA SUKABUMI"
+  },
+  {
+    "KodeDiri": 3273,
+    "KodeParent": 32,
+    "NamaDiri": "KOTA BANDUNG"
+  },
+  {
+    "KodeDiri": 3274,
+    "KodeParent": 32,
+    "NamaDiri": "KOTA CIREBON"
+  },
+  {
+    "KodeDiri": 3275,
+    "KodeParent": 32,
+    "NamaDiri": "KOTA BEKASI"
+  },
+  {
+    "KodeDiri": 3276,
+    "KodeParent": 32,
+    "NamaDiri": "KOTA DEPOK"
+  },
+  {
+    "KodeDiri": 3277,
+    "KodeParent": 32,
+    "NamaDiri": "KOTA CIMAHI"
+  },
+  {
+    "KodeDiri": 3278,
+    "KodeParent": 32,
+    "NamaDiri": "KOTA TASIKMALAYA"
+  },
+  {
+    "KodeDiri": 3279,
+    "KodeParent": 32,
+    "NamaDiri": "KOTA BANJAR"
+  },
+  {
+    "KodeDiri": 3301,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN CILACAP"
+  },
+  {
+    "KodeDiri": 3302,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN BANYUMAS"
+  },
+  {
+    "KodeDiri": 3303,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN PURBALINGGA"
+  },
+  {
+    "KodeDiri": 3304,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN BANJARNEGARA"
+  },
+  {
+    "KodeDiri": 3305,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN KEBUMEN"
+  },
+  {
+    "KodeDiri": 3306,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN PURWOREJO"
+  },
+  {
+    "KodeDiri": 3307,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN WONOSOBO"
+  },
+  {
+    "KodeDiri": 3308,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN MAGELANG"
+  },
+  {
+    "KodeDiri": 3309,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN BOYOLALI"
+  },
+  {
+    "KodeDiri": 3310,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN KLATEN"
+  },
+  {
+    "KodeDiri": 3311,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN SUKOHARJO"
+  },
+  {
+    "KodeDiri": 3312,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN WONOGIRI"
+  },
+  {
+    "KodeDiri": 3313,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN KARANGANYAR"
+  },
+  {
+    "KodeDiri": 3314,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN SRAGEN"
+  },
+  {
+    "KodeDiri": 3315,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN GROBOGAN"
+  },
+  {
+    "KodeDiri": 3316,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN BLORA"
+  },
+  {
+    "KodeDiri": 3317,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN REMBANG"
+  },
+  {
+    "KodeDiri": 3318,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN PATI"
+  },
+  {
+    "KodeDiri": 3319,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN KUDUS"
+  },
+  {
+    "KodeDiri": 3320,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN JEPARA"
+  },
+  {
+    "KodeDiri": 3321,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN DEMAK"
+  },
+  {
+    "KodeDiri": 3322,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN SEMARANG"
+  },
+  {
+    "KodeDiri": 3323,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN TEMANGGUNG"
+  },
+  {
+    "KodeDiri": 3324,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN KENDAL"
+  },
+  {
+    "KodeDiri": 3325,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN BATANG"
+  },
+  {
+    "KodeDiri": 3326,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN PEKALONGAN"
+  },
+  {
+    "KodeDiri": 3327,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN PEMALANG"
+  },
+  {
+    "KodeDiri": 3328,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN TEGAL"
+  },
+  {
+    "KodeDiri": 3329,
+    "KodeParent": 33,
+    "NamaDiri": "KABUPATEN BREBES"
+  },
+  {
+    "KodeDiri": 3371,
+    "KodeParent": 33,
+    "NamaDiri": "KOTA MAGELANG"
+  },
+  {
+    "KodeDiri": 3372,
+    "KodeParent": 33,
+    "NamaDiri": "KOTA SURAKARTA"
+  },
+  {
+    "KodeDiri": 3373,
+    "KodeParent": 33,
+    "NamaDiri": "KOTA SALATIGA"
+  },
+  {
+    "KodeDiri": 3374,
+    "KodeParent": 33,
+    "NamaDiri": "KOTA SEMARANG"
+  },
+  {
+    "KodeDiri": 3375,
+    "KodeParent": 33,
+    "NamaDiri": "KOTA PEKALONGAN"
+  },
+  {
+    "KodeDiri": 3376,
+    "KodeParent": 33,
+    "NamaDiri": "KOTA TEGAL"
+  },
+  {
+    "KodeDiri": 3401,
+    "KodeParent": 34,
+    "NamaDiri": "KABUPATEN KULON PROGO"
+  },
+  {
+    "KodeDiri": 3402,
+    "KodeParent": 34,
+    "NamaDiri": "KABUPATEN BANTUL"
+  },
+  {
+    "KodeDiri": 3403,
+    "KodeParent": 34,
+    "NamaDiri": "KABUPATEN GUNUNG KIDUL"
+  },
+  {
+    "KodeDiri": 3404,
+    "KodeParent": 34,
+    "NamaDiri": "KABUPATEN SLEMAN"
+  },
+  {
+    "KodeDiri": 3471,
+    "KodeParent": 34,
+    "NamaDiri": "KOTA YOGYAKARTA"
+  },
+  {
+    "KodeDiri": 3501,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN PACITAN"
+  },
+  {
+    "KodeDiri": 3502,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN PONOROGO"
+  },
+  {
+    "KodeDiri": 3503,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN TRENGGALEK"
+  },
+  {
+    "KodeDiri": 3504,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN TULUNGAGUNG"
+  },
+  {
+    "KodeDiri": 3505,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN BLITAR"
+  },
+  {
+    "KodeDiri": 3506,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN KEDIRI"
+  },
+  {
+    "KodeDiri": 3507,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN MALANG"
+  },
+  {
+    "KodeDiri": 3508,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN LUMAJANG"
+  },
+  {
+    "KodeDiri": 3509,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN JEMBER"
+  },
+  {
+    "KodeDiri": 3510,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN BANYUWANGI"
+  },
+  {
+    "KodeDiri": 3511,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN BONDOWOSO"
+  },
+  {
+    "KodeDiri": 3512,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN SITUBONDO"
+  },
+  {
+    "KodeDiri": 3513,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN PROBOLINGGO"
+  },
+  {
+    "KodeDiri": 3514,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN PASURUAN"
+  },
+  {
+    "KodeDiri": 3515,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN SIDOARJO"
+  },
+  {
+    "KodeDiri": 3516,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN MOJOKERTO"
+  },
+  {
+    "KodeDiri": 3517,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN JOMBANG"
+  },
+  {
+    "KodeDiri": 3518,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN NGANJUK"
+  },
+  {
+    "KodeDiri": 3519,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN MADIUN"
+  },
+  {
+    "KodeDiri": 3520,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN MAGETAN"
+  },
+  {
+    "KodeDiri": 3521,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN NGAWI"
+  },
+  {
+    "KodeDiri": 3522,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN BOJONEGORO"
+  },
+  {
+    "KodeDiri": 3523,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN TUBAN"
+  },
+  {
+    "KodeDiri": 3524,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN LAMONGAN"
+  },
+  {
+    "KodeDiri": 3525,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN GRESIK"
+  },
+  {
+    "KodeDiri": 3526,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN BANGKALAN"
+  },
+  {
+    "KodeDiri": 3527,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN SAMPANG"
+  },
+  {
+    "KodeDiri": 3528,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN PAMEKASAN"
+  },
+  {
+    "KodeDiri": 3529,
+    "KodeParent": 35,
+    "NamaDiri": "KABUPATEN SUMENEP"
+  },
+  {
+    "KodeDiri": 3571,
+    "KodeParent": 35,
+    "NamaDiri": "KOTA KEDIRI"
+  },
+  {
+    "KodeDiri": 3572,
+    "KodeParent": 35,
+    "NamaDiri": "KOTA BLITAR"
+  },
+  {
+    "KodeDiri": 3573,
+    "KodeParent": 35,
+    "NamaDiri": "KOTA MALANG"
+  },
+  {
+    "KodeDiri": 3574,
+    "KodeParent": 35,
+    "NamaDiri": "KOTA PROBOLINGGO"
+  },
+  {
+    "KodeDiri": 3575,
+    "KodeParent": 35,
+    "NamaDiri": "KOTA PASURUAN"
+  },
+  {
+    "KodeDiri": 3576,
+    "KodeParent": 35,
+    "NamaDiri": "KOTA MOJOKERTO"
+  },
+  {
+    "KodeDiri": 3577,
+    "KodeParent": 35,
+    "NamaDiri": "KOTA MADIUN"
+  },
+  {
+    "KodeDiri": 3578,
+    "KodeParent": 35,
+    "NamaDiri": "KOTA SURABAYA"
+  },
+  {
+    "KodeDiri": 3579,
+    "KodeParent": 35,
+    "NamaDiri": "KOTA BATU"
+  },
+  {
+    "KodeDiri": 3601,
+    "KodeParent": 36,
+    "NamaDiri": "KABUPATEN PANDEGLANG"
+  },
+  {
+    "KodeDiri": 3602,
+    "KodeParent": 36,
+    "NamaDiri": "KABUPATEN LEBAK"
+  },
+  {
+    "KodeDiri": 3603,
+    "KodeParent": 36,
+    "NamaDiri": "KABUPATEN TANGERANG"
+  },
+  {
+    "KodeDiri": 3604,
+    "KodeParent": 36,
+    "NamaDiri": "KABUPATEN SERANG"
+  },
+  {
+    "KodeDiri": 3671,
+    "KodeParent": 36,
+    "NamaDiri": "KOTA TANGERANG"
+  },
+  {
+    "KodeDiri": 3672,
+    "KodeParent": 36,
+    "NamaDiri": "KOTA CILEGON"
+  },
+  {
+    "KodeDiri": 3673,
+    "KodeParent": 36,
+    "NamaDiri": "KOTA SERANG"
+  },
+  {
+    "KodeDiri": 3674,
+    "KodeParent": 36,
+    "NamaDiri": "KOTA TANGERANG SELATAN"
+  },
+  {
+    "KodeDiri": 5101,
+    "KodeParent": 51,
+    "NamaDiri": "KABUPATEN JEMBRANA"
+  },
+  {
+    "KodeDiri": 5102,
+    "KodeParent": 51,
+    "NamaDiri": "KABUPATEN TABANAN"
+  },
+  {
+    "KodeDiri": 5103,
+    "KodeParent": 51,
+    "NamaDiri": "KABUPATEN BADUNG"
+  },
+  {
+    "KodeDiri": 5104,
+    "KodeParent": 51,
+    "NamaDiri": "KABUPATEN GIANYAR"
+  },
+  {
+    "KodeDiri": 5105,
+    "KodeParent": 51,
+    "NamaDiri": "KABUPATEN KLUNGKUNG"
+  },
+  {
+    "KodeDiri": 5106,
+    "KodeParent": 51,
+    "NamaDiri": "KABUPATEN BANGLI"
+  },
+  {
+    "KodeDiri": 5107,
+    "KodeParent": 51,
+    "NamaDiri": "KABUPATEN KARANG ASEM"
+  },
+  {
+    "KodeDiri": 5108,
+    "KodeParent": 51,
+    "NamaDiri": "KABUPATEN BULELENG"
+  },
+  {
+    "KodeDiri": 5171,
+    "KodeParent": 51,
+    "NamaDiri": "KOTA DENPASAR"
+  },
+  {
+    "KodeDiri": 5201,
+    "KodeParent": 52,
+    "NamaDiri": "KABUPATEN LOMBOK BARAT"
+  },
+  {
+    "KodeDiri": 5202,
+    "KodeParent": 52,
+    "NamaDiri": "KABUPATEN LOMBOK TENGAH"
+  },
+  {
+    "KodeDiri": 5203,
+    "KodeParent": 52,
+    "NamaDiri": "KABUPATEN LOMBOK TIMUR"
+  },
+  {
+    "KodeDiri": 5204,
+    "KodeParent": 52,
+    "NamaDiri": "KABUPATEN SUMBAWA"
+  },
+  {
+    "KodeDiri": 5205,
+    "KodeParent": 52,
+    "NamaDiri": "KABUPATEN DOMPU"
+  },
+  {
+    "KodeDiri": 5206,
+    "KodeParent": 52,
+    "NamaDiri": "KABUPATEN BIMA"
+  },
+  {
+    "KodeDiri": 5207,
+    "KodeParent": 52,
+    "NamaDiri": "KABUPATEN SUMBAWA BARAT"
+  },
+  {
+    "KodeDiri": 5208,
+    "KodeParent": 52,
+    "NamaDiri": "KABUPATEN LOMBOK UTARA"
+  },
+  {
+    "KodeDiri": 5271,
+    "KodeParent": 52,
+    "NamaDiri": "KOTA MATARAM"
+  },
+  {
+    "KodeDiri": 5272,
+    "KodeParent": 52,
+    "NamaDiri": "KOTA BIMA"
+  },
+  {
+    "KodeDiri": 5301,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN SUMBA BARAT"
+  },
+  {
+    "KodeDiri": 5302,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN SUMBA TIMUR"
+  },
+  {
+    "KodeDiri": 5303,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN KUPANG"
+  },
+  {
+    "KodeDiri": 5304,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN TIMOR TENGAH SELATAN"
+  },
+  {
+    "KodeDiri": 5305,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN TIMOR TENGAH UTARA"
+  },
+  {
+    "KodeDiri": 5306,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN BELU"
+  },
+  {
+    "KodeDiri": 5307,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN ALOR"
+  },
+  {
+    "KodeDiri": 5308,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN LEMBATA"
+  },
+  {
+    "KodeDiri": 5309,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN FLORES TIMUR"
+  },
+  {
+    "KodeDiri": 5310,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN SIKKA"
+  },
+  {
+    "KodeDiri": 5311,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN ENDE"
+  },
+  {
+    "KodeDiri": 5312,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN NGADA"
+  },
+  {
+    "KodeDiri": 5313,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN MANGGARAI"
+  },
+  {
+    "KodeDiri": 5314,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN ROTE NDAO"
+  },
+  {
+    "KodeDiri": 5315,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN MANGGARAI BARAT"
+  },
+  {
+    "KodeDiri": 5316,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN SUMBA TENGAH"
+  },
+  {
+    "KodeDiri": 5317,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN SUMBA BARAT DAYA"
+  },
+  {
+    "KodeDiri": 5318,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN NAGEKEO"
+  },
+  {
+    "KodeDiri": 5319,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN MANGGARAI TIMUR"
+  },
+  {
+    "KodeDiri": 5320,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN SABU RAIJUA"
+  },
+  {
+    "KodeDiri": 5321,
+    "KodeParent": 53,
+    "NamaDiri": "KABUPATEN MALAKA"
+  },
+  {
+    "KodeDiri": 5371,
+    "KodeParent": 53,
+    "NamaDiri": "KOTA KUPANG"
+  },
+  {
+    "KodeDiri": 6101,
+    "KodeParent": 61,
+    "NamaDiri": "KABUPATEN SAMBAS"
+  },
+  {
+    "KodeDiri": 6102,
+    "KodeParent": 61,
+    "NamaDiri": "KABUPATEN BENGKAYANG"
+  },
+  {
+    "KodeDiri": 6103,
+    "KodeParent": 61,
+    "NamaDiri": "KABUPATEN LANDAK"
+  },
+  {
+    "KodeDiri": 6104,
+    "KodeParent": 61,
+    "NamaDiri": "KABUPATEN MEMPAWAH"
+  },
+  {
+    "KodeDiri": 6105,
+    "KodeParent": 61,
+    "NamaDiri": "KABUPATEN SANGGAU"
+  },
+  {
+    "KodeDiri": 6106,
+    "KodeParent": 61,
+    "NamaDiri": "KABUPATEN KETAPANG"
+  },
+  {
+    "KodeDiri": 6107,
+    "KodeParent": 61,
+    "NamaDiri": "KABUPATEN SINTANG"
+  },
+  {
+    "KodeDiri": 6108,
+    "KodeParent": 61,
+    "NamaDiri": "KABUPATEN KAPUAS HULU"
+  },
+  {
+    "KodeDiri": 6109,
+    "KodeParent": 61,
+    "NamaDiri": "KABUPATEN SEKADAU"
+  },
+  {
+    "KodeDiri": 6110,
+    "KodeParent": 61,
+    "NamaDiri": "KABUPATEN MELAWI"
+  },
+  {
+    "KodeDiri": 6111,
+    "KodeParent": 61,
+    "NamaDiri": "KABUPATEN KAYONG UTARA"
+  },
+  {
+    "KodeDiri": 6112,
+    "KodeParent": 61,
+    "NamaDiri": "KABUPATEN KUBU RAYA"
+  },
+  {
+    "KodeDiri": 6171,
+    "KodeParent": 61,
+    "NamaDiri": "KOTA PONTIANAK"
+  },
+  {
+    "KodeDiri": 6172,
+    "KodeParent": 61,
+    "NamaDiri": "KOTA SINGKAWANG"
+  },
+  {
+    "KodeDiri": 6201,
+    "KodeParent": 62,
+    "NamaDiri": "KABUPATEN KOTAWARINGIN BARAT"
+  },
+  {
+    "KodeDiri": 6202,
+    "KodeParent": 62,
+    "NamaDiri": "KABUPATEN KOTAWARINGIN TIMUR"
+  },
+  {
+    "KodeDiri": 6203,
+    "KodeParent": 62,
+    "NamaDiri": "KABUPATEN KAPUAS"
+  },
+  {
+    "KodeDiri": 6204,
+    "KodeParent": 62,
+    "NamaDiri": "KABUPATEN BARITO SELATAN"
+  },
+  {
+    "KodeDiri": 6205,
+    "KodeParent": 62,
+    "NamaDiri": "KABUPATEN BARITO UTARA"
+  },
+  {
+    "KodeDiri": 6206,
+    "KodeParent": 62,
+    "NamaDiri": "KABUPATEN SUKAMARA"
+  },
+  {
+    "KodeDiri": 6207,
+    "KodeParent": 62,
+    "NamaDiri": "KABUPATEN LAMANDAU"
+  },
+  {
+    "KodeDiri": 6208,
+    "KodeParent": 62,
+    "NamaDiri": "KABUPATEN SERUYAN"
+  },
+  {
+    "KodeDiri": 6209,
+    "KodeParent": 62,
+    "NamaDiri": "KABUPATEN KATINGAN"
+  },
+  {
+    "KodeDiri": 6210,
+    "KodeParent": 62,
+    "NamaDiri": "KABUPATEN PULANG PISAU"
+  },
+  {
+    "KodeDiri": 6211,
+    "KodeParent": 62,
+    "NamaDiri": "KABUPATEN GUNUNG MAS"
+  },
+  {
+    "KodeDiri": 6212,
+    "KodeParent": 62,
+    "NamaDiri": "KABUPATEN BARITO TIMUR"
+  },
+  {
+    "KodeDiri": 6213,
+    "KodeParent": 62,
+    "NamaDiri": "KABUPATEN MURUNG RAYA"
+  },
+  {
+    "KodeDiri": 6271,
+    "KodeParent": 62,
+    "NamaDiri": "KOTA PALANGKA RAYA"
+  },
+  {
+    "KodeDiri": 6301,
+    "KodeParent": 63,
+    "NamaDiri": "KABUPATEN TANAH LAUT"
+  },
+  {
+    "KodeDiri": 6302,
+    "KodeParent": 63,
+    "NamaDiri": "KABUPATEN KOTA BARU"
+  },
+  {
+    "KodeDiri": 6303,
+    "KodeParent": 63,
+    "NamaDiri": "KABUPATEN BANJAR"
+  },
+  {
+    "KodeDiri": 6304,
+    "KodeParent": 63,
+    "NamaDiri": "KABUPATEN BARITO KUALA"
+  },
+  {
+    "KodeDiri": 6305,
+    "KodeParent": 63,
+    "NamaDiri": "KABUPATEN TAPIN"
+  },
+  {
+    "KodeDiri": 6306,
+    "KodeParent": 63,
+    "NamaDiri": "KABUPATEN HULU SUNGAI SELATAN"
+  },
+  {
+    "KodeDiri": 6307,
+    "KodeParent": 63,
+    "NamaDiri": "KABUPATEN HULU SUNGAI TENGAH"
+  },
+  {
+    "KodeDiri": 6308,
+    "KodeParent": 63,
+    "NamaDiri": "KABUPATEN HULU SUNGAI UTARA"
+  },
+  {
+    "KodeDiri": 6309,
+    "KodeParent": 63,
+    "NamaDiri": "KABUPATEN TABALONG"
+  },
+  {
+    "KodeDiri": 6310,
+    "KodeParent": 63,
+    "NamaDiri": "KABUPATEN TANAH BUMBU"
+  },
+  {
+    "KodeDiri": 6311,
+    "KodeParent": 63,
+    "NamaDiri": "KABUPATEN BALANGAN"
+  },
+  {
+    "KodeDiri": 6371,
+    "KodeParent": 63,
+    "NamaDiri": "KOTA BANJARMASIN"
+  },
+  {
+    "KodeDiri": 6372,
+    "KodeParent": 63,
+    "NamaDiri": "KOTA BANJAR BARU"
+  },
+  {
+    "KodeDiri": 6401,
+    "KodeParent": 64,
+    "NamaDiri": "KABUPATEN PASER"
+  },
+  {
+    "KodeDiri": 6402,
+    "KodeParent": 64,
+    "NamaDiri": "KABUPATEN KUTAI BARAT"
+  },
+  {
+    "KodeDiri": 6403,
+    "KodeParent": 64,
+    "NamaDiri": "KABUPATEN KUTAI KARTANEGARA"
+  },
+  {
+    "KodeDiri": 6404,
+    "KodeParent": 64,
+    "NamaDiri": "KABUPATEN KUTAI TIMUR"
+  },
+  {
+    "KodeDiri": 6405,
+    "KodeParent": 64,
+    "NamaDiri": "KABUPATEN BERAU"
+  },
+  {
+    "KodeDiri": 6409,
+    "KodeParent": 64,
+    "NamaDiri": "KABUPATEN PENAJAM PASER UTARA"
+  },
+  {
+    "KodeDiri": 6411,
+    "KodeParent": 64,
+    "NamaDiri": "KABUPATEN MAHAKAM HULU"
+  },
+  {
+    "KodeDiri": 6471,
+    "KodeParent": 64,
+    "NamaDiri": "KOTA BALIKPAPAN"
+  },
+  {
+    "KodeDiri": 6472,
+    "KodeParent": 64,
+    "NamaDiri": "KOTA SAMARINDA"
+  },
+  {
+    "KodeDiri": 6474,
+    "KodeParent": 64,
+    "NamaDiri": "KOTA BONTANG"
+  },
+  {
+    "KodeDiri": 6501,
+    "KodeParent": 65,
+    "NamaDiri": "KABUPATEN MALINAU"
+  },
+  {
+    "KodeDiri": 6502,
+    "KodeParent": 65,
+    "NamaDiri": "KABUPATEN BULUNGAN"
+  },
+  {
+    "KodeDiri": 6503,
+    "KodeParent": 65,
+    "NamaDiri": "KABUPATEN TANA TIDUNG"
+  },
+  {
+    "KodeDiri": 6504,
+    "KodeParent": 65,
+    "NamaDiri": "KABUPATEN NUNUKAN"
+  },
+  {
+    "KodeDiri": 6571,
+    "KodeParent": 65,
+    "NamaDiri": "KOTA TARAKAN"
+  },
+  {
+    "KodeDiri": 7101,
+    "KodeParent": 71,
+    "NamaDiri": "KABUPATEN BOLAANG MONGONDOW"
+  },
+  {
+    "KodeDiri": 7102,
+    "KodeParent": 71,
+    "NamaDiri": "KABUPATEN MINAHASA"
+  },
+  {
+    "KodeDiri": 7103,
+    "KodeParent": 71,
+    "NamaDiri": "KABUPATEN KEPULAUAN SANGIHE"
+  },
+  {
+    "KodeDiri": 7104,
+    "KodeParent": 71,
+    "NamaDiri": "KABUPATEN KEPULAUAN TALAUD"
+  },
+  {
+    "KodeDiri": 7105,
+    "KodeParent": 71,
+    "NamaDiri": "KABUPATEN MINAHASA SELATAN"
+  },
+  {
+    "KodeDiri": 7106,
+    "KodeParent": 71,
+    "NamaDiri": "KABUPATEN MINAHASA UTARA"
+  },
+  {
+    "KodeDiri": 7107,
+    "KodeParent": 71,
+    "NamaDiri": "KABUPATEN BOLAANG MONGONDOW UTARA"
+  },
+  {
+    "KodeDiri": 7108,
+    "KodeParent": 71,
+    "NamaDiri": "KABUPATEN SIAU TAGULANDANG BIARO"
+  },
+  {
+    "KodeDiri": 7109,
+    "KodeParent": 71,
+    "NamaDiri": "KABUPATEN MINAHASA TENGGARA"
+  },
+  {
+    "KodeDiri": 7110,
+    "KodeParent": 71,
+    "NamaDiri": "KABUPATEN BOLAANG MONGONDOW SELATAN"
+  },
+  {
+    "KodeDiri": 7111,
+    "KodeParent": 71,
+    "NamaDiri": "KABUPATEN BOLAANG MONGONDOW TIMUR"
+  },
+  {
+    "KodeDiri": 7171,
+    "KodeParent": 71,
+    "NamaDiri": "KOTA MANADO"
+  },
+  {
+    "KodeDiri": 7172,
+    "KodeParent": 71,
+    "NamaDiri": "KOTA BITUNG"
+  },
+  {
+    "KodeDiri": 7173,
+    "KodeParent": 71,
+    "NamaDiri": "KOTA TOMOHON"
+  },
+  {
+    "KodeDiri": 7174,
+    "KodeParent": 71,
+    "NamaDiri": "KOTA KOTAMOBAGU"
+  },
+  {
+    "KodeDiri": 7201,
+    "KodeParent": 72,
+    "NamaDiri": "KABUPATEN BANGGAI KEPULAUAN"
+  },
+  {
+    "KodeDiri": 7202,
+    "KodeParent": 72,
+    "NamaDiri": "KABUPATEN BANGGAI"
+  },
+  {
+    "KodeDiri": 7203,
+    "KodeParent": 72,
+    "NamaDiri": "KABUPATEN MOROWALI"
+  },
+  {
+    "KodeDiri": 7204,
+    "KodeParent": 72,
+    "NamaDiri": "KABUPATEN POSO"
+  },
+  {
+    "KodeDiri": 7205,
+    "KodeParent": 72,
+    "NamaDiri": "KABUPATEN DONGGALA"
+  },
+  {
+    "KodeDiri": 7206,
+    "KodeParent": 72,
+    "NamaDiri": "KABUPATEN TOLI-TOLI"
+  },
+  {
+    "KodeDiri": 7207,
+    "KodeParent": 72,
+    "NamaDiri": "KABUPATEN BUOL"
+  },
+  {
+    "KodeDiri": 7208,
+    "KodeParent": 72,
+    "NamaDiri": "KABUPATEN PARIGI MOUTONG"
+  },
+  {
+    "KodeDiri": 7209,
+    "KodeParent": 72,
+    "NamaDiri": "KABUPATEN TOJO UNA-UNA"
+  },
+  {
+    "KodeDiri": 7210,
+    "KodeParent": 72,
+    "NamaDiri": "KABUPATEN SIGI"
+  },
+  {
+    "KodeDiri": 7211,
+    "KodeParent": 72,
+    "NamaDiri": "KABUPATEN BANGGAI LAUT"
+  },
+  {
+    "KodeDiri": 7212,
+    "KodeParent": 72,
+    "NamaDiri": "KABUPATEN MOROWALI UTARA"
+  },
+  {
+    "KodeDiri": 7271,
+    "KodeParent": 72,
+    "NamaDiri": "KOTA PALU"
+  },
+  {
+    "KodeDiri": 7301,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN KEPULAUAN SELAYAR"
+  },
+  {
+    "KodeDiri": 7302,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN BULUKUMBA"
+  },
+  {
+    "KodeDiri": 7303,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN BANTAENG"
+  },
+  {
+    "KodeDiri": 7304,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN JENEPONTO"
+  },
+  {
+    "KodeDiri": 7305,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN TAKALAR"
+  },
+  {
+    "KodeDiri": 7306,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN GOWA"
+  },
+  {
+    "KodeDiri": 7307,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN SINJAI"
+  },
+  {
+    "KodeDiri": 7308,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN MAROS"
+  },
+  {
+    "KodeDiri": 7309,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN PANGKAJENE DAN KEPULAUAN"
+  },
+  {
+    "KodeDiri": 7310,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN BARRU"
+  },
+  {
+    "KodeDiri": 7311,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN BONE"
+  },
+  {
+    "KodeDiri": 7312,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN SOPPENG"
+  },
+  {
+    "KodeDiri": 7313,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN WAJO"
+  },
+  {
+    "KodeDiri": 7314,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN SIDENRENG RAPPANG"
+  },
+  {
+    "KodeDiri": 7315,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN PINRANG"
+  },
+  {
+    "KodeDiri": 7316,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN ENREKANG"
+  },
+  {
+    "KodeDiri": 7317,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN LUWU"
+  },
+  {
+    "KodeDiri": 7318,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN TANA TORAJA"
+  },
+  {
+    "KodeDiri": 7322,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN LUWU UTARA"
+  },
+  {
+    "KodeDiri": 7325,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN LUWU TIMUR"
+  },
+  {
+    "KodeDiri": 7326,
+    "KodeParent": 73,
+    "NamaDiri": "KABUPATEN TORAJA UTARA"
+  },
+  {
+    "KodeDiri": 7371,
+    "KodeParent": 73,
+    "NamaDiri": "KOTA MAKASSAR"
+  },
+  {
+    "KodeDiri": 7372,
+    "KodeParent": 73,
+    "NamaDiri": "KOTA PAREPARE"
+  },
+  {
+    "KodeDiri": 7373,
+    "KodeParent": 73,
+    "NamaDiri": "KOTA PALOPO"
+  },
+  {
+    "KodeDiri": 7401,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN BUTON"
+  },
+  {
+    "KodeDiri": 7402,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN MUNA"
+  },
+  {
+    "KodeDiri": 7403,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN KONAWE"
+  },
+  {
+    "KodeDiri": 7404,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN KOLAKA"
+  },
+  {
+    "KodeDiri": 7405,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN KONAWE SELATAN"
+  },
+  {
+    "KodeDiri": 7406,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN BOMBANA"
+  },
+  {
+    "KodeDiri": 7407,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN WAKATOBI"
+  },
+  {
+    "KodeDiri": 7408,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN KOLAKA UTARA"
+  },
+  {
+    "KodeDiri": 7409,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN BUTON UTARA"
+  },
+  {
+    "KodeDiri": 7410,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN KONAWE UTARA"
+  },
+  {
+    "KodeDiri": 7411,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN KOLAKA TIMUR"
+  },
+  {
+    "KodeDiri": 7412,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN KONAWE KEPULAUAN"
+  },
+  {
+    "KodeDiri": 7413,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN MUNA BARAT"
+  },
+  {
+    "KodeDiri": 7414,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN BUTON TENGAH"
+  },
+  {
+    "KodeDiri": 7415,
+    "KodeParent": 74,
+    "NamaDiri": "KABUPATEN BUTON SELATAN"
+  },
+  {
+    "KodeDiri": 7471,
+    "KodeParent": 74,
+    "NamaDiri": "KOTA KENDARI"
+  },
+  {
+    "KodeDiri": 7472,
+    "KodeParent": 74,
+    "NamaDiri": "KOTA BAUBAU"
+  },
+  {
+    "KodeDiri": 7501,
+    "KodeParent": 75,
+    "NamaDiri": "KABUPATEN BOALEMO"
+  },
+  {
+    "KodeDiri": 7502,
+    "KodeParent": 75,
+    "NamaDiri": "KABUPATEN GORONTALO"
+  },
+  {
+    "KodeDiri": 7503,
+    "KodeParent": 75,
+    "NamaDiri": "KABUPATEN POHUWATO"
+  },
+  {
+    "KodeDiri": 7504,
+    "KodeParent": 75,
+    "NamaDiri": "KABUPATEN BONE BOLANGO"
+  },
+  {
+    "KodeDiri": 7505,
+    "KodeParent": 75,
+    "NamaDiri": "KABUPATEN GORONTALO UTARA"
+  },
+  {
+    "KodeDiri": 7571,
+    "KodeParent": 75,
+    "NamaDiri": "KOTA GORONTALO"
+  },
+  {
+    "KodeDiri": 7601,
+    "KodeParent": 76,
+    "NamaDiri": "KABUPATEN MAJENE"
+  },
+  {
+    "KodeDiri": 7602,
+    "KodeParent": 76,
+    "NamaDiri": "KABUPATEN POLEWALI MANDAR"
+  },
+  {
+    "KodeDiri": 7603,
+    "KodeParent": 76,
+    "NamaDiri": "KABUPATEN MAMASA"
+  },
+  {
+    "KodeDiri": 7604,
+    "KodeParent": 76,
+    "NamaDiri": "KABUPATEN MAMUJU"
+  },
+  {
+    "KodeDiri": 7605,
+    "KodeParent": 76,
+    "NamaDiri": "KABUPATEN MAMUJU UTARA"
+  },
+  {
+    "KodeDiri": 7606,
+    "KodeParent": 76,
+    "NamaDiri": "KABUPATEN MAMUJU TENGAH"
+  },
+  {
+    "KodeDiri": 8101,
+    "KodeParent": 81,
+    "NamaDiri": "KABUPATEN MALUKU TENGGARA BARAT"
+  },
+  {
+    "KodeDiri": 8102,
+    "KodeParent": 81,
+    "NamaDiri": "KABUPATEN MALUKU TENGGARA"
+  },
+  {
+    "KodeDiri": 8103,
+    "KodeParent": 81,
+    "NamaDiri": "KABUPATEN MALUKU TENGAH"
+  },
+  {
+    "KodeDiri": 8104,
+    "KodeParent": 81,
+    "NamaDiri": "KABUPATEN BURU"
+  },
+  {
+    "KodeDiri": 8105,
+    "KodeParent": 81,
+    "NamaDiri": "KABUPATEN KEPULAUAN ARU"
+  },
+  {
+    "KodeDiri": 8106,
+    "KodeParent": 81,
+    "NamaDiri": "KABUPATEN SERAM BAGIAN BARAT"
+  },
+  {
+    "KodeDiri": 8107,
+    "KodeParent": 81,
+    "NamaDiri": "KABUPATEN SERAM BAGIAN TIMUR"
+  },
+  {
+    "KodeDiri": 8108,
+    "KodeParent": 81,
+    "NamaDiri": "KABUPATEN MALUKU BARAT DAYA"
+  },
+  {
+    "KodeDiri": 8109,
+    "KodeParent": 81,
+    "NamaDiri": "KABUPATEN BURU SELATAN"
+  },
+  {
+    "KodeDiri": 8171,
+    "KodeParent": 81,
+    "NamaDiri": "KOTA AMBON"
+  },
+  {
+    "KodeDiri": 8172,
+    "KodeParent": 81,
+    "NamaDiri": "KOTA TUAL"
+  },
+  {
+    "KodeDiri": 8201,
+    "KodeParent": 82,
+    "NamaDiri": "KABUPATEN HALMAHERA BARAT"
+  },
+  {
+    "KodeDiri": 8202,
+    "KodeParent": 82,
+    "NamaDiri": "KABUPATEN HALMAHERA TENGAH"
+  },
+  {
+    "KodeDiri": 8203,
+    "KodeParent": 82,
+    "NamaDiri": "KABUPATEN KEPULAUAN SULA"
+  },
+  {
+    "KodeDiri": 8204,
+    "KodeParent": 82,
+    "NamaDiri": "KABUPATEN HALMAHERA SELATAN"
+  },
+  {
+    "KodeDiri": 8205,
+    "KodeParent": 82,
+    "NamaDiri": "KABUPATEN HALMAHERA UTARA"
+  },
+  {
+    "KodeDiri": 8206,
+    "KodeParent": 82,
+    "NamaDiri": "KABUPATEN HALMAHERA TIMUR"
+  },
+  {
+    "KodeDiri": 8207,
+    "KodeParent": 82,
+    "NamaDiri": "KABUPATEN PULAU MOROTAI"
+  },
+  {
+    "KodeDiri": 8208,
+    "KodeParent": 82,
+    "NamaDiri": "KABUPATEN PULAU TALIABU"
+  },
+  {
+    "KodeDiri": 8271,
+    "KodeParent": 82,
+    "NamaDiri": "KOTA TERNATE"
+  },
+  {
+    "KodeDiri": 8272,
+    "KodeParent": 82,
+    "NamaDiri": "KOTA TIDORE KEPULAUAN"
+  },
+  {
+    "KodeDiri": 9101,
+    "KodeParent": 91,
+    "NamaDiri": "KABUPATEN FAKFAK"
+  },
+  {
+    "KodeDiri": 9102,
+    "KodeParent": 91,
+    "NamaDiri": "KABUPATEN KAIMANA"
+  },
+  {
+    "KodeDiri": 9103,
+    "KodeParent": 91,
+    "NamaDiri": "KABUPATEN TELUK WONDAMA"
+  },
+  {
+    "KodeDiri": 9104,
+    "KodeParent": 91,
+    "NamaDiri": "KABUPATEN TELUK BINTUNI"
+  },
+  {
+    "KodeDiri": 9105,
+    "KodeParent": 91,
+    "NamaDiri": "KABUPATEN MANOKWARI"
+  },
+  {
+    "KodeDiri": 9106,
+    "KodeParent": 91,
+    "NamaDiri": "KABUPATEN SORONG SELATAN"
+  },
+  {
+    "KodeDiri": 9107,
+    "KodeParent": 91,
+    "NamaDiri": "KABUPATEN SORONG"
+  },
+  {
+    "KodeDiri": 9108,
+    "KodeParent": 91,
+    "NamaDiri": "KABUPATEN RAJA AMPAT"
+  },
+  {
+    "KodeDiri": 9109,
+    "KodeParent": 91,
+    "NamaDiri": "KABUPATEN TAMBRAUW"
+  },
+  {
+    "KodeDiri": 9110,
+    "KodeParent": 91,
+    "NamaDiri": "KABUPATEN MAYBRAT"
+  },
+  {
+    "KodeDiri": 9111,
+    "KodeParent": 91,
+    "NamaDiri": "KABUPATEN MANOKWARI SELATAN"
+  },
+  {
+    "KodeDiri": 9112,
+    "KodeParent": 91,
+    "NamaDiri": "KABUPATEN PEGUNUNGAN ARFAK"
+  },
+  {
+    "KodeDiri": 9171,
+    "KodeParent": 91,
+    "NamaDiri": "KOTA SORONG"
+  },
+  {
+    "KodeDiri": 9401,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN MERAUKE"
+  },
+  {
+    "KodeDiri": 9402,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN JAYAWIJAYA"
+  },
+  {
+    "KodeDiri": 9403,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN JAYAPURA"
+  },
+  {
+    "KodeDiri": 9404,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN NABIRE"
+  },
+  {
+    "KodeDiri": 9408,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN KEPULAUAN YAPEN"
+  },
+  {
+    "KodeDiri": 9409,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN BIAK NUMFOR"
+  },
+  {
+    "KodeDiri": 9410,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN PANIAI"
+  },
+  {
+    "KodeDiri": 9411,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN PUNCAK JAYA"
+  },
+  {
+    "KodeDiri": 9412,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN MIMIKA"
+  },
+  {
+    "KodeDiri": 9413,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN BOVEN DIGOEL"
+  },
+  {
+    "KodeDiri": 9414,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN MAPPI"
+  },
+  {
+    "KodeDiri": 9415,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN ASMAT"
+  },
+  {
+    "KodeDiri": 9416,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN YAHUKIMO"
+  },
+  {
+    "KodeDiri": 9417,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN PEGUNUNGAN BINTANG"
+  },
+  {
+    "KodeDiri": 9418,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN TOLIKARA"
+  },
+  {
+    "KodeDiri": 9419,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN SARMI"
+  },
+  {
+    "KodeDiri": 9420,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN KEEROM"
+  },
+  {
+    "KodeDiri": 9426,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN WAROPEN"
+  },
+  {
+    "KodeDiri": 9427,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN SUPIORI"
+  },
+  {
+    "KodeDiri": 9428,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN MAMBERAMO RAYA"
+  },
+  {
+    "KodeDiri": 9429,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN NDUGA"
+  },
+  {
+    "KodeDiri": 9430,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN LANNY JAYA"
+  },
+  {
+    "KodeDiri": 9431,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN MAMBERAMO TENGAH"
+  },
+  {
+    "KodeDiri": 9432,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN YALIMO"
+  },
+  {
+    "KodeDiri": 9433,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN PUNCAK"
+  },
+  {
+    "KodeDiri": 9434,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN DOGIYAI"
+  },
+  {
+    "KodeDiri": 9435,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN INTAN JAYA"
+  },
+  {
+    "KodeDiri": 9436,
+    "KodeParent": 94,
+    "NamaDiri": "KABUPATEN DEIYAI"
+  },
+  {
+    "KodeDiri": 9471,
+    "KodeParent": 94,
+    "NamaDiri": "KOTA JAYAPURA"
+  }
+]

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kode Pos</title>
+</head>
+<body>
+    <div class="content">
+        <div id="provinsi">
+            <p>Provinsi</p>
+            <p id="debugProvinsi">Sedang mengambil data</p>
+            <select name="nama_provinsi" id="dropdownProvinsi" onchange="updateKabupaten()">
+                <option value="Empty">Empty</option>
+            </select>
+        </div>
+        <div id="kotaKabupaten">
+            <p>Kota atau Kabupaten</p>
+            <p id="debugKabupaten"></p>
+            <select name="nama_kabupaten" id="dropdownKabupaten" onchange="updateKecamatan()">
+                <option value="Empty">Empty</option>
+            </select>
+        </div>
+        <div id="kecamatan">
+            <p>Kecamatan</p>
+            <p id="debugKecamatan"></p>
+            <select name="nama_kecamatan" id="dropdownKecamatan" onchange="updateKelurahan()">
+                <option value="Empty">Empty</option>
+            </select>
+        </div>
+        <div id="kelurahan">
+            <p>Kelurahan</p>
+            <p id="debugKelurahan"></p>
+            <select name="nama_kelurahan" id="dropdownKelurahan">
+                <option value="Empty">Empty</option>
+            </select>
+        </div>
+        <div id="output">
+            <p>Hasil Pencarian</p>
+
+            <div id="result">
+
+            </div>
+            <a href="#" onclick="getKodePos()">Cari!</a>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+    
+</body>
+</html>
