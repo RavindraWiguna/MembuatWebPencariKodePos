@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Kreon:wght@300;400;500;600;700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+
+body, html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    /* font-family: 'Ubuntu', arial; */
+    font-family: 'Kreon', arial;
+    text-align: center;
+    background-color: rgb(244, 207, 165);
+}
+
+.title{
+    font-family: 'Ubuntu', arial;
+    background-color: rgb(218, 125, 19);
+    height: fit-content;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center ;
+    text-transform: uppercase;
+}
+
+.content{
+    /* padding-top: 10px; */
+    /* margin-top: -10px; */
+    
+    font-size: 25px;
+}
+
+#tombolCari{
+    background-color: white;
+    padding: 5px 25px;
+    text-decoration: none;
+    color: black;
+    border-radius: 15px;
+}
+
+select{
+    font-family: 'Ubuntu', arial;
+    padding: 5px 25px;
+    text-align: center;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: 400;
+    width: 50vw;
+}

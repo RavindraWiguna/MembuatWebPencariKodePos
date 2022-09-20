@@ -5,8 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kode Pos</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <div class="title">
+        <h1>Pencari Kode Pos</h1>
+    </div>
     <div class="content">
         <div id="provinsi">
             <p>Provinsi</p>
@@ -30,7 +34,7 @@
             </select>
         </div>
         <div id="kelurahan">
-            <p>Kelurahan</p>
+            <p>Desa atau Kelurahan</p>
             <p id="debugKelurahan"></p>
             <select name="nama_kelurahan" id="dropdownKelurahan">
                 <option value="Empty">Empty</option>
@@ -42,7 +46,7 @@
             <div id="result">
 
             </div>
-            <a href="#" onclick="getKodePos()">Cari!</a>
+            <a href="#" id="tombolCari" onclick="getKodePos()">Cari!</a>
         </div>
     </div>
     <script src="js/script.js"></script>
