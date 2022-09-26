@@ -22,8 +22,7 @@ function UpdateDropDownList(idDropDown, dataOption) {
         option.value = dataOption[i].KodeDiri;
         dropDownElement.options.add(option);
     }
-    // alert(dataOption[0].NamaDiri);
-    // alert("selesai");
+
 };
 
 function disable_dropdown(idDropDown){
@@ -74,9 +73,6 @@ async function initKecamatan(){
     fetchedDataKecamatan = data;
     hasfetchKecamatan = true;
 
-    // alert("selesai ambil kecamatan");
-    // console.log(data);
-    // UpdateDropDownList("dropdownProvinsi", data);
     debug.innerHTML = "";
 }
 
@@ -92,9 +88,6 @@ async function initKabupaten(){
     fetchedDataKabupaten = data;
     hasfetchKabupaten= true;
 
-    // alert("selesai ambil kabupaten");
-    // console.log(data);
-    // UpdateDropDownList("dropdownProvinsi", data);
     debug.innerHTML = "";
 }
 
@@ -110,55 +103,12 @@ async function initKelurahan(){
     fetchedDataKelurahan = data;
     hasfetchKelurahan = true;
 
-    // alert("selesai ambil kabupaten");
-    // console.log(data);
-    // UpdateDropDownList("dropdownProvinsi", data);
     debug.innerHTML = "";
 }
 
-
-// async function initTest(){
-//     // display debug
-//     alert("mulai nih je");
-//     let debug = document.getElementById("debugPostal");
-//     debug.innerHTML = "Sedang mengambil data. . .";
-//     debug.innerHTML = "llll";
-//     const response = await fetch("https://raw.githubusercontent.com/ArrayAccess/Indonesia-Postal-And-Area/master/data/json/area/62/11/1101/1101010/1101010.json");
-//     const data = await response.json();
-
-//     // fetchedDataKecamatan = data;
-//     // hasfetchKecamatan = true;
-
-//     alert("selesai broo");
-//     console.log(data);
-//     // UpdateDropDownList("dropdownProvinsi", data);
-//     // debug.innerHTML = "";
-// }
-
-// let fetchedDataPostal = null;
-// let hasfetchPostal = false;
-// async function initPostal(){
-//     // display debug
-//     let debug = document.getElementById("debugPostal");
-//     debug.innerHTML = "Sedang mengambil data. . .";
-//     const response = await fetch(url_postal);
-//     const data = await response.json();
-
-//     fetchedDataPostal = data;
-//     hasfetchPostal= true;
-
-//     // alert("selesai ambil kabupaten");
-//     // console.log(data);
-//     // UpdateDropDownList("dropdownProvinsi", data);
-//     debug.innerHTML = "";
-// }
-
-
-
-
 function binser_data_and_return_all(dataJson, tkodeParent){
-    let left = -1;
-    let right = dataJson.length+1;
+    let left = 0;
+    let right = dataJson.length;
 
     /*
     misal array ini dan cari 6
@@ -179,8 +129,6 @@ function binser_data_and_return_all(dataJson, tkodeParent){
     m = 2
     5 is low, update l, l = 3
     l = 3, r = 3
-
-    
     */
 
     while(left < right){
@@ -188,9 +136,6 @@ function binser_data_and_return_all(dataJson, tkodeParent){
         console.log(left, middle, right);
         if(dataJson[middle].KodeParent < tkodeParent){
             left = middle+1;
-        }
-        else if(dataJson[middle] > tkodeParent){
-            right = middle-1;
         }
         else{
             // uh mundur sir, but jangan -1
@@ -234,12 +179,10 @@ async function getAllKabupaten(kodeProvinsi){
     else{
         data = fetchedDataKabupaten;
     }
-    // console.log(data);
+
     debug.innerHTML = "Sedang memfilter kabupaten";
-    // let filtered_kabupaten = data.filter((kabupaten) => kabupaten.KodeParent == kodeProvinsi);
     let filtered_kabupaten = binser_data_and_return_all(data, kodeProvinsi);
-    // console.log(filtered_kabupaten);
-    // let jsonfied = JSON.
+
     UpdateDropDownList("dropdownKabupaten", filtered_kabupaten);
     hasfetchKabupaten = true;
     debug.innerHTML = "";
@@ -249,8 +192,7 @@ async function getAllKelurahan(kodeKecamatan){
     // display debug
     let debug = document.getElementById("debugKelurahan");
     debug.innerHTML = "Sedang mengambil data. . .";
-    // console.log("log");
-    // alert("start");
+
     let data = null;
     if(! hasfetchKelurahan){
         const response = await fetch(url_kecamatan);
@@ -261,13 +203,10 @@ async function getAllKelurahan(kodeKecamatan){
         data = fetchedDataKelurahan;
     }
     debug.innerHTML = "Sedang memfilter kelurahan";
-    // console.log(data);
-    // let filtered_kecamatan = data.filter((kecamatan) => kecamatan.KodeParent == kodeKabupaten);
-    // console.log(filtered_kabupaten);
-    // // let jsonfied = JSON.
+
     console.log(data[0]);
     let filtered_kelurahan = binser_data_and_return_all(data, kodeKecamatan);
-    // console.log(filtered_kecamatan);
+
     UpdateDropDownList("dropdownKelurahan", filtered_kelurahan);
     hasfetchKelurahan = true;
     debug.innerHTML = "";
@@ -277,8 +216,7 @@ async function getAllKecamatan(kodeKabupaten){
     // display debug
     let debug = document.getElementById("debugKecamatan");
     debug.innerHTML = "Sedang mengambil data. . .";
-    // console.log("log");
-    // alert("start");
+
     let data = null;
     if(! hasfetchKecamatan){
         const response = await fetch(url_kecamatan);
@@ -289,12 +227,9 @@ async function getAllKecamatan(kodeKabupaten){
         data = fetchedDataKecamatan;
     }
     debug.innerHTML = "Sedang memfilter kecamatan";
-    // console.log(data);
-    // let filtered_kecamatan = data.filter((kecamatan) => kecamatan.KodeParent == kodeKabupaten);
-    // console.log(filtered_kabupaten);
-    // // let jsonfied = JSON.
+
     let filtered_kecamatan = binser_data_and_return_all(data, kodeKabupaten);
-    // console.log(filtered_kecamatan);
+
     UpdateDropDownList("dropdownKecamatan", filtered_kecamatan);
     hasfetchKecamatan = true;
     debug.innerHTML = "";
@@ -307,6 +242,8 @@ function updateKabupaten(){
         getAllKabupaten(kodeProvinsi);
         // enable kabupaten
         enable_dropdown("dropdownKabupaten");
+    }else{
+        disable_dropdown("dropdownKabupaten");
     }
     
     // disable kecamatan, suruh milih kabupaten dulu
@@ -323,6 +260,9 @@ function updateKecamatan(){
         // enable kecamatan
         enable_dropdown("dropdownKecamatan");
     }
+    else{
+        disable_dropdown("dropdownKecamatan");
+    }
 
     // disable kelurahan
     disable_dropdown("dropdownKelurahan");
@@ -336,6 +276,9 @@ function updateKelurahan(){
 
         // enable kelurahan
         enable_dropdown("dropdownKelurahan");
+    }
+    else{
+        disable_dropdown("dropdownKelurahan");
     }
 }
 
@@ -365,9 +308,6 @@ async function getKodePos(){
         const response = await fetch(get_postal_json_url());
         data = await response.json();
     
-        // alert(data);
-        // console.log(data);
-        // alert("selesai");
         result.innerHTML = `
         <p>Kode Pos:</p>
         <p>${data.postal}</p>
@@ -390,58 +330,3 @@ initKecamatan();
 initKabupaten();
 // ambil semua data provinsi dan update dropdown list
 getAllProvinsi();
-
-// initTest();
-
-// ================= CARA BARU =============
-// function get_provinsi_json_url(kodeProvinsi){
-//     console.log(`./json/kodepos/${kodeProvinsi}/${kodeProvinsi}.json`);
-//     return `./json/kodepos/${kodeProvinsi}/${kodeProvinsi}.json`;
-// }
-
-// function get_kabupaten_json_url(kodeProvinsi, kodeKabupaten){
-//     console.log( `./json/kodepos/${kodeProvinsi}/${kodeKabupaten}/${kodeKabupaten}.json`);
-//     return `./json/kodepos/${kodeProvinsi}/${kodeKabupaten}/${kodeKabupaten}.json`;
-// }
-
-// async function get_kode_dan_nama_kabupaten(kodeProvinsi, anakProvinsi){
-//     let debug = document.getElementById("debugKabupaten");
-//     debug.innerHTML = "Sedang mengambil nama anak provinsi";
-
-//     let dataKabupaten = [
-
-//     ];
-
-//     for(let i = 0;i<anakProvinsi.length;i++){
-//         const response = await fetch(get_kabupaten_json_url(kodeProvinsi, anakProvinsi[i]));
-//         const data = await response.json();
-
-//         debug.innerHTML = "berhasil mendapatkan anak ke" + i;
-
-//         dataKabupaten.push({"KodeDiri": anakProvinsi[i], "NamaDiri": data.name});
-//         console.log("done" + i);
-//     }
-//     UpdateDropDownList("dropdownKabupaten", dataKabupaten);
-//     debug.innerHTML = "";
-// }
-
-
-// async function getAllKabupaten(kodeProvinsi){
-//     // display debug
-//     let debug = document.getElementById("debugKabupaten");
-//     debug.innerHTML = "Sedang mengambil data. . .";
-
-//     const response = await fetch(get_provinsi_json_url(kodeProvinsi));
-//     const data = await response.json();
-
-//     debug.innerHTML = "Selesai mengambil anak provinsi";
-//     // get nama kabupaten and update dropdown
-//     get_kode_dan_nama_kabupaten(kodeProvinsi, data.children);
-// }
-
-// function updateKabupaten(){
-//     let dde = document.getElementById("dropdownProvinsi");
-//     let kodeProvinsi = dde.value;
-//     getAllKabupaten(kodeProvinsi);
-// }
-
